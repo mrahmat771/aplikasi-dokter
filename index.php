@@ -1,1 +1,2 @@
-ini adalah index
+ini adalah index:
+penambahan text pertama 
